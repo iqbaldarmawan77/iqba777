@@ -1,0 +1,27 @@
+{
+  "name": "Kasir Restoran Padang",
+  "short_name": "Kasir Padang",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#F1F5F9",
+  "theme_color": "#D97706",
+  "description": "Sistem Kasir &amp; Restoran Padang untuk mengelola pesanan, menu, dan laporan harian.",
+  "icons": [
+    {
+      "src": "https://images.mediadirhub.com/vibe/modern-restaurant-cashier-interface-with-touchscreen-and-order-display.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.mediadirhub.com/vibe/modern-restaurant-cashier-interface-with-touchscreen-and-order-display.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "natural",
+  "categories": [
+    "food"
+  ]
+}
